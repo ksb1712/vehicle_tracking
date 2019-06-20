@@ -1,0 +1,36 @@
+item {
+  id: 1
+  name: 'bicycle'
+}
+item {
+  id: 2
+  name: 'bus'
+}
+item {
+  id: 3
+  name: 'car'
+}
+item {
+  id: 4
+  name: 'motorcycle'
+}
+item {
+  id: 5
+  name: 'motorized_vehicle'
+}
+item {
+  id: 6
+  name: 'non-motorized_vehicle'
+}
+item {
+  id: 7
+  name: 'pedestrian'
+}
+item {
+  id: 8
+  name: 'truck'
+}
+item {
+  id: 9
+  name: 'work_van'
+}
